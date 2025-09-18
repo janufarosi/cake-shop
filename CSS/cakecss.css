@@ -21,7 +21,7 @@ header{
 
 }
 .nav-link ul{
-    display: flex; gap: 60px;  
+    display: flex; gap: 30px;  
 }
 .nav-link li{
      list-style: none;
@@ -34,7 +34,7 @@ header{
     align-items: center; 
 }
 .nav-right{
-    display: flex; gap: 50px;
+    display: flex; gap: 30px;
     
 }
 .box{
@@ -1509,4 +1509,5 @@ footer{
     text-align: start;
 }
 }
+
 
